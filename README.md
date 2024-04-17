@@ -1,8 +1,15 @@
-# React + Vite
+# Installation
+> `npm install --save @types/webidl-conversions`
 
-This template by naman provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Summary
+This package contains type definitions for webidl-conversions (https://github.com/jsdom/webidl-conversions#readme).
 
-Currently, two official plugins are available:
+# Details
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/webidl-conversions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Additional Details
+ * Last updated: Tue, 07 Nov 2023 15:11:36 GMT
+ * Dependencies: none
+
+# Credits
+These definitions were written by [ExE Boss](https://github.com/ExE-Boss), and [BendingBender](https://github.com/BendingBender).
